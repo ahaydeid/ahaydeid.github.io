@@ -1,0 +1,26 @@
+body {
+  min-height: 3000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#navbarNav ul li.active a {
+  background-color: blue;
+}
+
+.projects {
+  box-shadow: 13px 13px 26px 6px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 13px 13px 26px 6px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 13px 13px 26px 6px rgba(0, 0, 0, 0.75);
+}
